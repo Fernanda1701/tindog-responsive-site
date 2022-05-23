@@ -41,7 +41,7 @@ Acima, temos a demonstração da responsividade implementada no website, visuali
 - Tablet 🔳
 - Mobile 📱
 
-Para conferir o resultado do website <a href="https://fernanda1701.github.io/tindog-responsive-site/">Clique aqui!</a>
+Para conferir a webpage do <b>🔥TinDog</b> ➞ <a href="https://fernanda1701.github.io/tindog-responsive-site/">Clique aqui!</a>
 
 ## 🛠 Tecnologias
  
