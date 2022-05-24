@@ -25,7 +25,7 @@ Below, we have a demonstration of the features of the page:
 <h3 align="center">Functionalities</h3>
 
 <p align="center">
-  <img alt="Funcionalidade" title="Funcionalidade" src="./README/funcionalidades.gif" />
+  <img alt="Functionalities" title="Functionalities" src="./README/functionalities.gif" />
 </p>
 
 As we can see above, we have the following functionalities:
