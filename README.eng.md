@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://github.com/Fernanda1701/tindog-responsive-site#readme">☆ Português Brasileiro</a>
+    <a href="https://github.com/Fernanda1701/tindog-responsive-site/blob/main/README.eng.md">☆ English ☆</a> 
+</p>
+
+
 <h1 align="center">
     <a href="https://fernanda1701.github.io/tindog-responsive-site/">🔥TinDog</a>
 </h1>
