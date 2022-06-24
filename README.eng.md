@@ -55,7 +55,7 @@ To check out the <b>🔥TinDog</b> web page ➞ <a href="https://fernanda1701.gi
 - [CSS3](https://devdocs.io/css/)
 - [Media Query](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries)
 - [Bootstrap 5](https://getbootstrap.com/)
-- Code versioning on [GitHub](https://github.com/)
+- Code versioning on [Git](https://git-scm.com/)
 
 ## 💻 IDE
 
